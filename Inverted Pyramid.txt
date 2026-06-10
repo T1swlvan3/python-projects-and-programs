@@ -1,0 +1,33 @@
+Number Row Inverted Pyramid  
+ 1 2 3 4 5 6 
+  1 2 3 4 5 
+   1 2 3 4 
+    1 2 3 
+     1 2 
+      1 
+Number Column Inverted Pyramid  
+ 6 6 6 6 6 6 
+  5 5 5 5 5 
+   4 4 4 4 
+    3 3 3 
+     2 2 
+      1 
+String Row Inverted Pyramid  
+ t a m i l 
+  t a m i 
+   t a m 
+    t a 
+     t 
+String Column Inverted Pyramid  
+  l l l l l 
+   i i i i 
+    m m m 
+     a a 
+      t 
+Star Inverted Pyramid  
+ * * * * * * 
+  * * * * * 
+   * * * * 
+    * * * 
+     * * 
+      * 

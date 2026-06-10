@@ -1,0 +1,41 @@
+Number Row Inverted Right Angle Triangle 
+-------------
+666666
+55555
+4444
+333
+22
+1
+
+ Number Column Inverted Right Angle Triangle 
+-------------
+012345
+01234
+0123
+012
+01
+0
+
+ String Row Inverted Right Angle Triangle 
+-------------
+lllll
+iiii
+mmm
+aa
+t
+
+ String Column Inverted Right Angle Triangle 
+-------------
+tamil
+tami
+tam
+ta
+t
+star Inverted Right Angle Triangle 
+-------------
+******
+*****
+****
+***
+**
+*
